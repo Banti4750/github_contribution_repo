@@ -6,6 +6,10 @@ Repos I want to contribute to. Add a row (or just paste a URL and ask me to fill
 |------|-----|----------|-------------------|-------|--------|
 | docat | https://github.com/docat-org/docat | TypeScript | none open right now | Host your docs — simple, versioned, fancy | watching |
 | dofus-companion | https://github.com/noureddinestam/dofus-companion | TypeScript |  issue #6
+| dofus-companion | https://github.com/noureddinestam/dofus-companion | TypeScript |  issue #7
+| dofus-companion | https://github.com/noureddinestam/dofus-companion | TypeScript |  issue #9
+| dofus-companion | https://github.com/noureddinestam/dofus-companion | TypeScript |  issue #10
+|  OMNYX-OS  | https://github.com/OMNYX-OS/OMNYX-OS | TypeScript , Jest | issue #21
 
 
 **Status legend:** `watching` · `looking for issue` · `working on it` · `PR open` · `merged` · `dropped`
